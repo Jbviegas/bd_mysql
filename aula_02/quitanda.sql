@@ -78,7 +78,7 @@ SET SQL_SAFE_UPDATES = 0;
 SET SQL_SAFE_UPDATES = 1;
 
 -- Atualizar o atributo preço na tabela, cujo id seja igual a 1
-UPDATE tb_produtos SET preco = 10.00 WHERE id = 1;
+UPDATE tb_produtos SET preco = 7.90 WHERE id = 1;
 
 -- Deletar o registro da tabela, cujo id seja igual a 2
 DELETE FROM tb_produtos WHERE id = 2;
