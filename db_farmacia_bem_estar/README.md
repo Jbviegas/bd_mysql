@@ -1,5 +1,11 @@
 # 📘 Guia Completo sobre INNER JOIN, LEFT JOIN e RIGHT JOIN
 
+![SQL](https://img.shields.io/badge/SQL-JOIN-blue) ![Banco de
+Dados](https://img.shields.io/badge/Database-Relacionamentos-green)
+![Nível](https://img.shields.io/badge/Nível-Intermediário-orange)
+
+------------------------------------------------------------------------
+
 ## 1️⃣ Primeiro INNER JOIN (sem filtro)
 
 ### Exemplo utilizado:
